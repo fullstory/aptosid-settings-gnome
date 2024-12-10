@@ -1,0 +1,3 @@
+# Launcher icons
+[org.gnome.shell]
+favorite-apps=['aptosid-aptosid-irc.desktop', 'aptosid-xdg-browser-launcher.desktop']
