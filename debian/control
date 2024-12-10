@@ -11,8 +11,8 @@ Vcs-Browser: https://github.com/fullstory/aptosid-settings-budgie
 
 Package: aptosid-settings-gnome
 Depends: ${misc:Depends},
- aptosid-art-wallpaper
-Recommends: xdg-browser-launcher
+ aptosid-art-wallpaper-nemesis
+Recommends: xdg-browser-launcher, aptosid-irc
 Architecture: all
 Description: provide default Gnome settings for aptosid
  Provides default settings for appearance and applications of the Gnome

@@ -1,3 +1,19 @@
 # Launcher icons
 [org.gnome.shell]
 favorite-apps=['aptosid-aptosid-irc.desktop', 'aptosid-xdg-browser-launcher.desktop']
+
+[org.gnome.desktop.background]
+picture-uri='file:///usr/share/wallpapers/aptosid-nemesis-wide.png'
+picture-uri-dark='file:///usr/share/wallpapers/aptosid-nemesis-wide.png'
+picture-options='scaled'
+
+[org.gnome.desktop.screensaver]
+picture-uri='file:///usr/share/wallpapers/aptosid-nemesis-wide.png'
+picture-uri-dark='file:///usr/share/wallpapers/aptosid-nemesis-wide.png'
+picture-options='scaled'
+
+[org.gnome.desktop.sound]
+event-sounds=false
+
+[org.gnome.desktop.peripherals.touchpad]
+tap-to-click=true
