@@ -4,7 +4,7 @@ aptosid-settings-gnome (1.0.1) UNRELEASED; urgency=medium
   * NOT RELEASED YET
 
   [ Kel Modderman ]
-  * Scope of of the gschema overrides with to :GNOME.
+  * Scope of the gschema overrides with to :GNOME.
 
  -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 10 Dec 2024 18:58:55 +0100
 
